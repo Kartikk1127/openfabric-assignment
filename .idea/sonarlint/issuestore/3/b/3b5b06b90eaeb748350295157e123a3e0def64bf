@@ -1,0 +1,11 @@
+
+r
+java:S2095"PUse try-with-resources or close this "CreateContainerCmd" in a "finally" clause.(­åÁ™üÿÿÿÿ8å·¬¶‚1
+r
+java:S2095"PUse try-with-resources or close this "CreateContainerCmd" in a "finally" clause.(âÿ¡›ûÿÿÿÿ8Ô°«¶‚1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(šØ®Ü8ë°«¶‚1
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(ïý‡ÿ8ñ°«¶‚1
+X	java:S125#"<This block of commented-out lines of code should be removed.(ÛÉ„8ò°«¶‚1
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(Ñûüîýÿÿÿÿ8ô°«¶‚1
+n
+java:S1128"QRemove this unused import 'com.github.dockerjava.api.command.CreateContainerCmd'.(û“Þ¢8ó·¬¶‚1
